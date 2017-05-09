@@ -81,3 +81,8 @@ A.FFGG$
 HHHDDG$
 .HDD.G$
 ```
+Usage
+```
+make
+./fillit test_files/valid_20
+```
